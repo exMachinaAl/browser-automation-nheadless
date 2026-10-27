@@ -1,0 +1,5 @@
+# Versions validated in the Python 3.13 development test environment.
+# Browser installation (Chromium) is separate: python -m playwright install chromium
+playwright==1.57.0
+fastapi==0.128.2
+uvicorn==0.48.0

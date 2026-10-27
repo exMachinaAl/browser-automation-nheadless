@@ -1,0 +1,12 @@
+{
+  "start_url": "http://127.0.0.1:8787",
+  "allowed_origins": ["http://127.0.0.1:8787"],
+  "host": "127.0.0.1", "port": 8788,
+  "headless": false,
+  "chromium_executable": "",
+  "cdp_endpoint": "",
+  "viewport": {"width": 1280, "height": 900},
+  "idle_ms": 1600, "max_wait_ms": 45000,
+  "input_selector": "#prompt", "send_selector": "#send",
+  "response_selector": ".assistant-response", "ready_selector": "#prompt"
+}
